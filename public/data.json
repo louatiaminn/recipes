@@ -1,0 +1,352 @@
+[
+    {
+        "id": 1,
+        "name": "Spaghetti Bolognese",
+        "description": "A classic Italian pasta dish with a rich and flavorful meat sauce.",
+        "ingredients": [
+            "400g spaghetti",
+            "2 tablespoons olive oil",
+            "1 onion, diced",
+            "2 garlic cloves, minced",
+            "500g ground beef",
+            "800g canned tomatoes",
+            "2 tablespoons tomato paste",
+            "1 teaspoon sugar",
+            "Salt and pepper to taste",
+            "Grated Parmesan cheese"
+        ],
+        "cooking_time": 30,
+        "servings": 4,
+        "image_url": "https://biancazapatka.com/wp-content/uploads/2018/07/spaghetti-bolognese-vegan.jpg",
+        "category": "Pasta"
+    },
+    {
+        "id": 2,
+        "name": "Chicken Curry",
+        "description": "A flavorful and creamy curry dish made with tender chicken and aromatic spices.",
+        "ingredients": [
+            "1 tablespoon vegetable oil",
+            "1 onion, diced",
+            "2 garlic cloves, minced",
+            "1 tablespoon ginger, grated",
+            "500g chicken breast, cubed",
+            "2 tablespoons curry powder",
+            "400ml coconut milk",
+            "400g canned tomatoes",
+            "Salt to taste",
+            "Fresh cilantro, chopped"
+        ],
+        "cooking_time": 40,
+        "servings": 4,
+        "image_url": "https://www.kitchensanctuary.com/wp-content/uploads/2020/08/Easy-Chicken-Curry-square-FS-117.jpg",
+        "category": "Curry"
+    },
+    {
+        "id": 3,
+        "name": "Vegetable Stir-Fry",
+        "description": "A quick and healthy stir-fry with a mix of fresh vegetables in a savory sauce.",
+        "ingredients": [
+            "2 tablespoons soy sauce",
+            "1 tablespoon hoisin sauce",
+            "1 teaspoon sesame oil",
+            "1 tablespoon vegetable oil",
+            "1 bell pepper, sliced",
+            "1 carrot, julienned",
+            "1 broccoli crown, cut into florets",
+            "1 zucchini, sliced",
+            "2 garlic cloves, minced",
+            "1 tablespoon ginger, grated",
+            "Cooked rice"
+        ],
+        "cooking_time": 20,
+        "servings": 4,
+        "image_url": "https://recipe30.com/wp-content/uploads/2021/08/Asian-stirfried-vegetables.jpg",
+        "category": "Stir-Fry"
+    },
+    {
+        "id": 4,
+        "name": "Beef Tacos",
+        "description": "Tasty tacos filled with seasoned beef and fresh toppings.",
+        "ingredients": [
+            "500g ground beef",
+            "1 packet taco seasoning",
+            "12 taco shells",
+            "1 cup shredded lettuce",
+            "1 cup diced tomatoes",
+            "1 cup shredded cheddar cheese",
+            "Sour cream",
+            "Salsa"
+        ],
+        "cooking_time": 25,
+        "servings": 4,
+        "image_url": "https://www.creationsbykara.com/wp-content/uploads/2023/10/Ground-Beef-Tacos-26-2-735x927.jpg",
+        "category": "Mexican"
+    },
+    {
+        "id": 5,
+        "name": "Caesar Salad",
+        "description": "A classic Caesar salad with crisp romaine lettuce and a creamy dressing.",
+        "ingredients": [
+            "1 head romaine lettuce, chopped",
+            "1/2 cup Caesar dressing",
+            "1/4 cup grated Parmesan cheese",
+            "1 cup croutons",
+            "Salt and pepper to taste"
+        ],
+        "cooking_time": 10,
+        "servings": 4,
+        "image_url": "https://www.allrecipes.com/thmb/JTW0AIVY5PFxqLrf_-CDzT4OZQY=/0x512/filters:no_upscale():max_bytes(150000):strip_icc()/229063-Classic-Restaurant-Caesar-Salad-ddmfs-4x3-231-89bafa5e54dd4a8c933cf2a5f9f12a6f.jpg",
+        "category": "Salad"
+    },
+    {
+        "id": 6,
+        "name": "Margherita Pizza",
+        "description": "A simple and delicious pizza with fresh tomatoes, mozzarella, and basil.",
+        "ingredients": [
+            "1 pizza dough",
+            "1/2 cup tomato sauce",
+            "2 cups shredded mozzarella cheese",
+            "1/2 cup fresh basil leaves",
+            "1 tablespoon olive oil",
+            "Salt to taste"
+        ],
+        "cooking_time": 15,
+        "servings": 2,
+        "image_url": "https://www.allrecipes.com/thmb/2rQA_OlnLbhidei70glz6HCCYAs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1453815-authentic-pizza-margherita-Cynthia-Ross-4x3-1-7410c69552274163a9049342b60c22ff.jpg",
+        "category": "Pizza"
+    },
+    {
+        "id": 7,
+        "name": "Chicken Alfredo",
+        "description": "Creamy Alfredo pasta with tender pieces of chicken.",
+        "ingredients": [
+            "300g fettuccine",
+            "2 tablespoons butter",
+            "2 garlic cloves, minced",
+            "1 cup heavy cream",
+            "1 cup grated Parmesan cheese",
+            "2 chicken breasts, cooked and sliced",
+            "Salt and pepper to taste",
+            "Chopped parsley"
+        ],
+        "cooking_time": 25,
+        "servings": 4,
+        "image_url": "https://www.budgetbytes.com/wp-content/uploads/2022/07/Chicken-Alfredo-bowl.jpg",
+        "category": "Pasta"
+    },
+    {
+        "id": 8,
+        "name": "Beef Stew",
+        "description": "A hearty and comforting beef stew with vegetables.",
+        "ingredients": [
+            "1kg beef stew meat",
+            "2 tablespoons flour",
+            "Salt and pepper to taste",
+            "2 tablespoons olive oil",
+            "1 onion, diced",
+            "3 carrots, sliced",
+            "3 potatoes, diced",
+            "4 cups beef broth",
+            "1 teaspoon thyme",
+            "1 teaspoon rosemary"
+        ],
+        "cooking_time": 120,
+        "servings": 6,
+        "image_url": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2023/09/Beef-Stew-main.jpg",
+        "category": "Stew"
+    },
+    {
+        "id": 9,
+        "name": "Pancakes",
+        "description": "Fluffy pancakes perfect for a delicious breakfast.",
+        "ingredients": [
+            "1 cup flour",
+            "2 tablespoons sugar",
+            "1 teaspoon baking powder",
+            "1/2 teaspoon baking soda",
+            "1/2 teaspoon salt",
+            "1 cup buttermilk",
+            "1 egg",
+            "2 tablespoons melted butter",
+            "Maple syrup",
+            "Fresh berries"
+        ],
+        "cooking_time": 15,
+        "servings": 4,
+        "image_url": "https://www.allrecipes.com/thmb/WqWggh6NwG-r8PoeA3OfW908FUY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21014-Good-old-Fashioned-Pancakes-mfs_001-1fa26bcdedc345f182537d95b6cf92d8.jpg",
+        "category": "Breakfast"
+    },
+    {
+        "id": 10,
+        "name": "Tomato Soup",
+        "description": "A warm and comforting tomato soup perfect for any time of the year.",
+        "ingredients": [
+            "2 tablespoons olive oil",
+            "1 onion, diced",
+            "2 garlic cloves, minced",
+            "800g canned tomatoes",
+            "4 cups vegetable broth",
+            "1 teaspoon sugar",
+            "Salt and pepper to taste",
+            "1/2 cup heavy cream",
+            "Fresh basil, chopped"
+        ],
+        "cooking_time": 30,
+        "servings": 4,
+        "image_url": "https://www.allrecipes.com/thmb/QijITeBBcE99Ur5kDoccAJ35WWo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/277311spicy-fresh-tomato-soupFranceC4x3-56454ad082214f33960f62665fc8c169.jpg",
+        "category": "Soup"
+    },
+        {
+            "id": 11,
+            "name": "Couscous",
+            "description": "A traditional dish made with semolina, served with vegetables and meat.",
+            "ingredients": [
+                "500g semolina couscous",
+                "2 tablespoons olive oil",
+                "1 kg meat (lamb or chicken)",
+                "2 onions, sliced",
+                "3 tomatoes, diced",
+                "2 zucchinis, sliced",
+                "2 carrots, sliced",
+                "Salt and pepper",
+                "Couscous spices",
+                "Cooked chickpeas"
+            ],
+            "cooking_time": 90,
+            "servings": 6,
+            "image_url": "https://www.diari.tn/sites/default/files/image/recette/couscous-viande_0.jpg",
+            "category": "Main course"
+        },
+        {
+            "id": 12,
+            "name": "Brik",
+            "description": "A thin pastry filled, usually with an egg and tuna.",
+            "ingredients": [
+                "6 brik sheets",
+                "6 eggs",
+                "200g canned tuna",
+                "1 tablespoon capers",
+                "Chopped parsley",
+                "Lemon",
+                "Salt and pepper",
+                "Oil for frying"
+            ],
+            "cooking_time": 20,
+            "servings": 6,
+            "image_url": "https://voyage-tunisie.info/wp-content/uploads/2018/01/Le-Brik-en-demi-cercle.jpg",
+            "category": "Appetizer"
+        },
+        {
+            "id": 13,
+            "name": "Tajine",
+            "description": "A Tunisian dish made with eggs, cheese, and minced meat.",
+            "ingredients": [
+                "500g minced meat",
+                "6 eggs",
+                "200g grated cheese",
+                "1 onion, sliced",
+                "2 potatoes, diced",
+                "1 teaspoon turmeric",
+                "Salt and pepper",
+                "Chopped parsley",
+                "Olive oil"
+            ],
+            "cooking_time": 60,
+            "servings": 8,
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQfZbKRakOO9xxQx0RNCxFk4aRx8WfsV8Qm3G6rFrJsdho4qxYNGaXBdopPpLnzaO2MFc&usqp=CAU",
+            "category": "Main course"
+        },
+        {
+            "id": 14,
+            "name": "Salade Méchouia",
+            "description": "A salad of grilled vegetables, seasoned with olive oil and lemon.",
+            "ingredients": [
+                "4 tomatoes",
+                "2 peppers",
+                "1 onion",
+                "2 garlic cloves",
+                "2 tablespoons olive oil",
+                "Lemon juice",
+                "Salt and pepper",
+                "Black olives"
+            ],
+            "cooking_time": 40,
+            "servings": 4,
+            "image_url": "https://www.tunisienumerique.com/wp-content/uploads/2020/07/Slata-mechwiya.jpg",
+            "category": "Salad"
+        },
+        {
+            "id": 15,
+            "name": "Chakchouka",
+            "description": "A dish made with tomatoes, peppers, and poached eggs.",
+            "ingredients": [
+                "4 tomatoes, diced",
+                "2 peppers, sliced",
+                "1 onion, sliced",
+                "3 eggs",
+                "2 garlic cloves, minced",
+                "1 teaspoon cumin",
+                "Salt and pepper",
+                "Olive oil"
+            ],
+            "cooking_time": 30,
+            "servings": 4,
+            "image_url": "https://img.over-blog.com/500x332/2/55/76/46/archives/17/chakchouka.jpg",
+            "category": "Main course"
+        },
+        {
+            "id": 16,
+            "name": "Lablabi",
+            "description": "A hot, spicy chickpea soup.",
+            "ingredients": [
+                "400g cooked chickpeas",
+                "4 garlic cloves, minced",
+                "1 tablespoon harissa",
+                "1 tablespoon cumin",
+                "Lemon juice",
+                "Stale bread",
+                "Salt",
+                "Olive oil"
+            ],
+            "cooking_time": 45,
+            "servings": 4,
+            "image_url": "https://www.marhba.com/images/lifestyle2022/ChezYassine_BorhenCherif.jpg",
+            "category": "Soup"
+        },
+        {
+            "id": 17,
+            "name": "Mloukhia",
+            "description": "A thick stew made with jute leaves.",
+            "ingredients": [
+                "100g mloukhia powder",
+                "1 kg beef",
+                "2 onions, sliced",
+                "4 garlic cloves, minced",
+                "2 tablespoons olive oil",
+                "Salt and pepper",
+                "Spices"
+            ],
+            "cooking_time": 240,
+            "servings": 6,
+            "image_url": "https://ayshek.com/wp-content/uploads/2024/01/recette-de-mloukhia-tunisienne-ayshek.jpg",
+            "category": "Main course"
+        },
+        {
+            "id": 18,
+            "name": "Fricassé",
+            "description": "Small fried breads stuffed with tuna, olives, and harissa.",
+            "ingredients": [
+                "500g flour",
+                "2 eggs",
+                "200g tuna",
+                "Black olives",
+                "Harissa",
+                "Oil for frying",
+                "Salt and pepper"
+            ],
+            "cooking_time": 90,
+            "servings": 8,
+            "image_url": "https://ayshek.com/wp-content/uploads/2024/01/recette-de-fricasse-tunisien.jpg",
+            "category": "Snack"
+        }
+    ]
